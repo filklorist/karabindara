@@ -1,0 +1,15 @@
+#+title: Orbat Land T
+
+* 2nd Provisional Brigade
+| name                         | nickname/commander | strength | notes          |
+|------------------------------+--------------------+----------+----------------|
+| 14th Regiment of Foot        | Wakefield          |     1050 |                |
+| 28th Naval Infantry Regiment | Purplewaves        |      850 | elite          |
+| 32nd Regiment of Foot        | Shickadee          |      900 |                |
+| 44th Regiment of Foot        | "Serene" (Serena)  |      950 |                |
+| 102nd Light Regiment         | "Lenny's"          |          |                |
+| wackos                       |                    |          |                |
+|------------------------------+--------------------+----------+----------------|
+| 2nd Artillery Regiment       | "Gno Mercy"        |  12 guns | 2 batteries    |
+| 4th Artillery Regiment       | "Alexandrian"      |   5 guns | 1 battery      |
+|                              |                    |          | 1 demi-battery |

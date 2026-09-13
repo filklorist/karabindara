@@ -1,0 +1,97 @@
+#+title: Orbat Naval
+*All ships without notes are assumed to be sailing ships*
+
+* Great Gulf Squadron
+An oder but prestigious group elevated from the Gulf Mouth Force so important during the previous Musagari Wars. Has not had much modernization of late.
+Mostly quick, "deep" water frigates joined by a pair of early steam corvettes for patrol and shallow water operations
+| type     | name               | guns | notes                     |
+|----------+--------------------+------+---------------------------|
+| frigate  | *Sherbert's Ghost* |   58 | flagship                  |
+| "        | Daniari            |   52 |                           |
+| "        | Taif               |   52 |                           |
+| "        | Kagul              |   44 |                           |
+| "        | Alvith R. Turner   |   44 |                           |
+| "        | Red Hearth         |   44 |                           |
+| "        | Green Season       |   42 |                           |
+|----------+--------------------+------+---------------------------|
+| corvette | Ravelin            |    5 | 1x steam screw propulsion |
+| "        | Ala                |    5 | "                         |
+* West Gulf Blockading Squadron
+Task organized from ships in drydock at the war's start, meaning those not able to be used in the initial tasking & battles but available by the time the blockade was being organized.
+Contains a just-launched screw-driven frigate and a somewhat ancient ship-of-the-line that was for a long time being repaired. Otherwise mostly older, smaller ships in for repair in refit.
+| type                              | name             | guns | notes                     |
+|-----------------------------------+------------------+------+---------------------------|
+| Ship-of-the-line (2nd Rate[fn:1]) | *Fortune*        |   88 | flagship                  |
+|-----------------------------------+------------------+------+---------------------------|
+| frigate                           | Towran Gib       |   38 | 2x steam screw propulsion |
+|-----------------------------------+------------------+------+---------------------------|
+| frigate                           | Natsha           |   60 |                           |
+| "                                 | Scrab            |   60 |                           |
+| "                                 | Vensor           |   44 |                           |
+| "                                 | Goder            |   36 |                           |
+|-----------------------------------+------------------+------+---------------------------|
+| vera cutter[fn:2]                 | Cavalier         |   16 |                           |
+| "                                 | Berbin           |   14 |                           |
+| "                                 | Flying Fish      |   14 |                           |
+| "                                 | General Longhoof |    6 |                           |
+| "                                 | Waldo[fn:3]      |    6 |                           |
+| "                                 | Cisani Dream     |    4 |                           |
+| "                                 | Saoradne         |    4 |                           |
+* Coast Penatrative Squadron
+A newly put together group for coastal & riverine service, drawn from other units to make a purely steam-capable squadron. The mortar schooners are all grain and ore shipping boats refitted during the first years of war.
+Composed of a few ships, two of the three semi-experimental Koros-class iron-hulled gunboats, and a smattering of other gunboats and mortar vessels
+| type            | name                | guns | notes                          |
+|-----------------+---------------------+------+--------------------------------|
+| sloop           | *Paran*             |   23 | flagship, sidewheel steamer    |
+| "               | Valestherne         |   23 | sidewheel steamer              |
+| "               | Philak              |   23 | "                              |
+|-----------------+---------------------+------+--------------------------------|
+| gunboat         | Hellicent           |   14 | iron-hulled, sidewheel steamer |
+| "               | Gleaned Truth       |    8 | "                              |
+|-----------------+---------------------+------+--------------------------------|
+| gunboat         | Beauty Borne        |    6 | 1x steam screw propulsion      |
+| "               | Lovell Randolph     |    6 | "                              |
+| "               | Moril Kolotis       |    6 | "                              |
+| "               | Chud                |    4 | sidewheel steamer              |
+| "               | Maiya's Chain       |    4 | "                              |
+| "               | Satchel Rightway    |    4 | "                              |
+| "               | Destined Platepress |    4 | "                              |
+| "               | Subcontractor       |    4 | "                              |
+|-----------------+---------------------+------+--------------------------------|
+| mortar schooner | Radial Knurling     |      | "                              |
+| "               | Standfield          |      | "                              |
+| "               | Apple Butter        |      | "                              |
+| "               | Tronix              |      | "                              |
+| "               | Musth               |      | "                              |
+| "               | Temporin            |      | "                              |
+| "               | Dinuba              |      | "                              |
+| "               | Oakhurst            |      | "                              |
+| "               | Wittsican           |      | "                              |
+| "               | Nordone             |      | "                              |
+| "               | Lgfgfg              |      | "                              |
+| "               | Ryegen Koronba      |      | "                              |
+
+* Tenders & Transport ships
+The Thrakalian Navy also has non-warships in the area. These are not armed.
+It should also be noted that every ship has a number of boats. The details of these boats should not matter to the player, but I shall detail some of them regardless.
+| name                     | notes             |
+|--------------------------+-------------------|
+| Crepescullm              | sidewheel steamer |
+| Rightgone Charger        | "                 |
+| Jaime Banga              | "                 |
+| Lortet                   |                   |
+| Mort Masticator          |                   |
+| Couch Macerator          |                   |
+| Ply                      |                   |
+| Autocephalous Assemblage |                   |
+| Goose Fascism            |                   |
+
+
+
+* Footnotes
+
+[fn:1] By British Classification, the lack of a real bluewater navy means the Thrakalians don't have such distinctions. To the Thrakalian Navy, Fortune is a part of a class of ships simply called "Γρεατσηιπσ"/"Greatships"
+
+[fn:2] [[https://en.wikipedia.org/wiki/Baltimore_Clipper][Vera Cutters]] are a class of fast sailing ship from southeastern Thrakal, especially the port of Vera. The term can be used to refer to a wide variety of shipping vessels built for speed, but the Vera Cutters in military use are almost universally double-masted brigs carrying either a full deck of close-range carronades or (more modernly) a small number of heavy [[https://en.wikipedia.org/wiki/Dahlgren_gun][54-pounder shell guns]] or long-range [[https://en.wikipedia.org/wiki/Parrott_rifle][90-pounder rifles]] to punch far above their weight
+
+[fn:3] There he is!
