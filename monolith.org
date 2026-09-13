@@ -1,0 +1,24 @@
+#+title: Monolith
+* Blunders on the Kara'Bindara
+** Inspiration
+*** Land
+[[https://en.wikipedia.org/wiki/Battle_of_Baton_Rouge_(1862)][Battle of Baton Rouge]] 
+*** Naval
+[[https://en.wikipedia.org/wiki/Battle_of_Forts_Jackson_and_St._Philip][Battle of Forts Jackson and St. Philip]]
+
+*** Political
+[[https://en.wikipedia.org/wiki/Louisiana_in_the_American_Civil_War][Louisiana in the American Civil War]]
+** Lore
+** ORBATS
+[[file:orbat-naval.org][Thraki Navy]]
+[[file:orbat-land-t.org][Thraki Land]]
+** Letters
+*** Thrakal
+****  Naval
+1. TO: Chief of Office & Acting Governor of Zaroon & Commander of Naval Forces, Office for Conducting War in the Western Gulf
+   FROM: Tala Sibala, Principle Secretary, Office for Conducting War in the Western in the Western Gulf
+**** Land
+1. TO: Deputy Chief of Office & Commander of Land Forces, Office for Conducting War in the Western Gulf
+   FROM: Tala Sibala, Principle Secretary, Office for Conducting War in the Western in the Western Gulf
+
+   In addition to those forces, a group of mercenaries under self-styled "General" Sprambis Rose
