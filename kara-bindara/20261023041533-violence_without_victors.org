@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       8bbe1e0a-c89c-45b6-ba7c-4e6708bb9569
+:END:
+#+title: Violence without Victors
+bad times
+Conflicts during this period include the [[id:c36995da-0e12-4df9-b524-2a99171e676b][Bleating Borders War]], the [[id:3e456f62-a493-4fec-99ea-2b859fc47fb4][Fourth Musagari War]], the [[id:d461c3bb-d2bc-4171-a69c-caf8951f2284][Garden Lakes War]], the [[id:dc146706-781f-496c-8071-f9b443980fca][Pirate Wars of the Hellan Sea]], &c.
+
+None-conflict events include 

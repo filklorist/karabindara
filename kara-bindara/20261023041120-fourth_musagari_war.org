@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       3e456f62-a493-4fec-99ea-2b859fc47fb4
+:END:
+#+title: Fourth Musagari War
+This is the war of the present
+This war is likely to end with the [[id:4368b077-2138-498b-8670-0519c8ee1cc3][Invasion of the Kara'Bindara]]

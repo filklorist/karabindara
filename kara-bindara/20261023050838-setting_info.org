@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       08b745a4-8293-4779-90ba-fec3d161d812
+:END:
+#+title: Setting Info
+This game is set in a fantasy world of my own creation. A very wise wargame designer by the name of Sam Sorensen once wrote "I recommend the 'historical setting with serial numbers filed off' approach" on the topic of wargame settings. You may feel free to imagine this game is set roughly during the Fantasy Crimean War, and then discard this letter without reading it any further.
+
+This setting is not a "historical setting with the serial numbers filed off". I have drawn several maps, written twenty-some-odd pages and dozens of smaller notes, and sketched out thousands of years of history for this world. Some of that history streches after the timeframe of our game, and there will surely be inconsistencies between what I have written in the past and what will be written here. This is no vice. The world you and I and our friends describe by our exchange of in-character letters is the setting of this game, and the world that exists in my google docs and org roam notes and indeed this very text is merely inspiration for that game.
+
+The world's landmass is largely made up of the nearly pangaeic supercontinet of Dyall.

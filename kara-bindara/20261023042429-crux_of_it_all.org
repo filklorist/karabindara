@@ -1,0 +1,82 @@
+:PROPERTIES:
+:ID:       9a9d47ca-0462-4bbc-9660-ce2153e53534
+:END:
+#+title: Blunders on the Kara'Bindara
+* Blunders on the Kara'Bindara
+** Inspiration
+:PROPERTIES:
+:ID:       509e3086-c6f0-448d-96d6-329e060472a7
+:END:
+*** Land
+:PROPERTIES:
+:ID:       fceae6c7-cd8b-4fd6-93c4-9c5505690528
+:END:
+**** [[https://en.wikipedia.org/wiki/Battle_of_Baton_Rouge_(1862)][Battle of Baton Rouge]] 
+:PROPERTIES:
+:ID:       f7dc5048-10b2-448d-84b9-e20db8492457
+:END:
+Defense of the important city on the Mississippi
+*** Naval
+:PROPERTIES:
+:ID:       e454e234-0c02-40e4-8c23-41f96182fc98
+:END:
+**** [[https://en.wikipedia.org/wiki/Battle_of_Forts_Jackson_and_St._Philip][Battle of Forts Jackson and St. Philip]]
+:PROPERTIES:
+:ID:       32f714ad-817b-4d1a-971d-f7a8cc93a30a
+:END:
+Attack of the Mississippi
+**** [[https://en.wikipedia.org/wiki/Battle_of_Sinop][Battle of Sinop]]
+:PROPERTIES:
+:ID:       615b5b02-85d5-436f-a552-fe3e72a2afc6
+:END:
+destruction of an inferior navy by explosive shell in the age of steam
+*** Political
+:PROPERTIES:
+:ID:       6578c0c9-6ce0-425d-a7a6-f817093ebb04
+:END:
+**** [[https://en.wikipedia.org/wiki/Louisiana_in_the_American_Civil_War][Louisiana in the American Civil War]]
+:PROPERTIES:
+:ID:       dd200276-1e4b-4b7b-9136-c558ccea61be
+:END:
+Polititricks
+** Lore
+:PROPERTIES:
+:ID:       5ebdfee7-cd78-4c7e-8de6-836396950496
+:END:
+- [[id:2809ea5e-321b-461d-ba73-f488ff325025][timeline-to-1781]]
+- [[id:5f4e54f8-2e55-445f-b5f8-dd48d579bdff][TAHC]]
+- [[id:e3b441ea-a581-4dc2-b785-6be960d050c9][Rose]]
+** ORBATS
+:PROPERTIES:
+:ID:       ccc574f9-5a26-4097-b096-b0bd4943878c
+:END:
+- [[id:0ee59098-45ca-4b87-a8b5-b9ce9549f723][Thrakal Navy]]
+- [[id:9189cdfe-1777-425f-b8e5-c3a06e509fa5][Thrakal Land]]
+- [[id:4cebe94e-ee57-437c-a656-4e35e9ce2ed4][Lacron]]
+** Letters
+:PROPERTIES:
+:ID:       0fde0c8b-5bcf-4415-84d8-29ef141bec09
+:END:
+Abraham Fifield
+*** Universal
+:PROPERTIES:
+:ID:       192b1140-5550-4dc9-9459-3d179fd83699
+:END:
+[[id:88c363e5-0142-42ca-bee4-6d9fd3f55bed][Intro Letter]]
+[[id:08b745a4-8293-4779-90ba-fec3d161d812][Setting Info]]
+*** P1
+:PROPERTIES:
+:ID:       7186b1fc-131e-40c8-a57d-52b516559c42
+:END:
+1.  [[id:946036bb-a3d6-4213-b6a3-056885707007][t-nav-1]] 
+*** P2
+:PROPERTIES:
+:ID:       a5901909-1518-457f-9336-1d25480232c4
+:END:
+1. [[id:ffce9bae-1bf3-4534-ba13-540b4ef33e1f][t-land-1]]
+*** P3
+:PROPERTIES:
+:ID:       82e72920-a6d1-4ece-9db0-abc82f0407c7
+:END:
+1.  [[id:54541cb5-c5a9-43aa-9de6-261ef13c4639][l-land-1]]
+

@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       4cebe94e-ee57-437c-a656-4e35e9ce2ed4
+:END:
+#+title: ORBAT Lacron
+
+* [[id:c20f221f-3c9a-44dc-9f4d-bc2ab4de68d1][Army of the Kara'Bindara]]
+| name                               | commander          | strength | location            | notes  | commander trait |
+|------------------------------------+--------------------+----------+---------------------+--------+-----------------|
+| Volunteers of Zaroon and the Warsh | P.T. Physeauregard |     1000 | partisans & militia | shoddy |                 |
+|                                    |                    |          | -underarmed         |        |                 |
+| Kibroz                             |                    |      200 | militia             | shoddy |                 |
+|------------------------------------+--------------------+----------+---------------------+--------+-----------------|
+| 7th Regiment of Line               | Landon Walkaraj    |      900 | at Harfington       | avg    |                 |
+| 21st Regiment of Line              | Nico               |      350 | at Corg             | avg    |                 |
+| 47th Regiment of Line              |                    |     1000 | at Green Sea        | avg    |                 |
+| 68th Regiment of Line              |                    |      950 | at McEwan           | shoddy |                 |
+|------------------------------------+--------------------+----------+---------------------+--------+-----------------|
+| Evie's Eternals                    |                    |      750 | at River City       | elite  |                 |
+| Parger's Chargers                  |                    |      800 | at Lunder           | avg    |                 |
+
+* Forts
+| name       | strength | guns | notes    |
+|------------+----------+------+----------|
+| Sands      |       75 |   13 |          |
+| Corg       |       25 |   10 |          |
+| Harfington |       90 |   18 |          |
+| Cardinal   |       50 |    6 |          |
+| Thickorium |       75 |    7 |          |
+| Ipon       |       40 |   12 |          |
+| Thunder    |       75 |    8 |          |
+| Moron      |      150 |   20 |          |
+| Tart       |      100 |   12 |          |
+| Eeffoc     |      300 |   20 |          |
+|------------+----------+------+----------|
+| Collum     |       50 |   15 |          |
+| Fulton     |       25 |    8 |          |
+| Tea        |       25 |    3 | broke af |
+| McEwan     |      150 |    8 |          |
+
+* [[id:d4db889f-b24c-4a0f-affa-f948bb124dbc][First Legion of the Royal City]]
+| name                                      | commander | strength | commander trait |
+|-------------------------------------------+-----------+----------+-----------------|
+| Brimisora Footmen                         |           |      950 |                 |
+| Ariidoric Guard                           |           |       17 | fickle-brained  |
+| Horse Guards                              |           |      400 |                 |
+|-------------------------------------------+-----------+----------+-----------------|
+| 1st "Heatloss" Company of Foot Rifle-Guns | Heatloss  |  18 guns |                 |
+| 3rd Company of Foot Rifle-Guns            |           |  18 guns |                 |
+
+~8k

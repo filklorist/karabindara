@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       9189cdfe-1777-425f-b8e5-c3a06e509fa5
+:END:
+#+title: ORBAT Thrakal Land
+* 2nd Provisional Brigade
+:PROPERTIES:
+:ID:       b79d121e-8538-4a9b-b55f-4e33a08f3b89
+:END:
+| name                                       | commander              | strength | notes          | commander trait          |
+|--------------------------------------------+------------------------+----------+----------------+--------------------------|
+| 14th "Wake-of-Fields" Regiment of Foot     | John Wolston           |     1050 | shoddy         | Cautious                 |
+| 28th "Purplewaves" Naval Infantry Regiment | Gavin Paradinos        |      800 | elite          | Forder/Maritime Attacker |
+| 32nd "Shickadee" Regiment of Foot          | Varin Zanaras          |      900 | shoddy         |                          |
+| 44th "Serene" Regiment of Foot             | Serena Coldortos       |      950 | shoddy         | Timorous                 |
+| 102nd "Lenny's" Light Regiment             | Lenny Regrom           |      900 | avg            | Temeritous               |
+|--------------------------------------------+------------------------+----------+----------------+--------------------------|
+| 2nd "Gno Mercy" Artillery Regiment         | Aurora Seyn            |  16 guns | 2 batteries    | Beloved                  |
+| 4th "Alexandrian" Artillery Regiment       | Konstantine Kazmnenmos |   8 guns | 1 battery      | Despised                 |
+| 5th "Grayanaut" Artillery Regiment         | Rhodon Dendros         |   4 guns | 1 demi-battery |                          |
+|--------------------------------------------+------------------------+----------+----------------+--------------------------|
+| Engineers                                  | Ca Doas                |          |                |                          |
+
+* 1st Administrative Grouping of Contracted Fighters
+:PROPERTIES:
+:ID:       896ffd2f-db2c-42ea-b408-9761717151de
+:END:
+| name                   | commander           | strength | notes  | comtrait             |
+|------------------------+---------------------+----------+--------+----------------------|
+| Rose Petals            | [[id:e3b441ea-a581-4dc2-b785-6be960d050c9][Sprambis Rose]]       |      700 | elite  | Incredibly Lucky     |
+| Stan's Bald Winners    | Stanley Baldwin     |      800 | shoddy | Organizer            |
+| Shane's Rocky Mtn Boys | Shane Mavrokordatos |      300 | elite  | Rough Terrain Expert |

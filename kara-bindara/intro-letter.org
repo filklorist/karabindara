@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       88c363e5-0142-42ca-bee4-6d9fd3f55bed
+:END:
+#+title: Intro Letter
+Welcome to the First Progamez Mail Wargame (Which is Definitely Not Just Kriegspiel): Blunders on the Kara'Bindara, and to what should hopefully be a maddening experience. This letter is here to provide a (somewhat?) brief introduction to the wargame, while the other content of this envelope includes information about the setting and in character material for said game. If you want a digital copy of any of this for any reason, do let me know.
+
+You will be taking the role of a leader of a military force in a black powder fantasy setting, receiving briefings and issuing orders by mail. With this letter you should find another letter from me describing this setting, a letter from your chief of staff briefing you on the in-game situation, and a map or two of the area of operations.
+
+I take a measure of pride in designing this game to be a mite unusual, as wargames go. Unlike most wargames there will not be any dice rolling or pages on pages of rules, and obviously you won't be sitting across from your foes looking at the same table as them. Instead this game is going to focus quite a bit on command, control, communications, and intelligence. If I manage to run things properly, this should be an excercise [sic] in strategic thinking and coping with lack of perfect control and accurate information.
+
+This game will run on a floating time scale. This means time will advance as rapidly or sluggishly as I damn well please, generally meaning once I get everyone's orders I will simulate the passage of time until something important happens.
+
+Due to the complete lack of rules governing this game, the resolution of orders will be left entirely to me, the umpire. Therefore I would recommend making your orders detailed and difficult to misinterpret wherever possible, though I certainly won't stop you from just writing a letter containing the sole word "Attack!"
+
+If you do go the more detailed route, do know that you can write as many plans and contingencies as you want, but I will still excercise [sic] some randomness on behalf of your commanders in the field who may not agree with or even receive your orders.
+
+After you read the letter from your chief of staff, it should become fairly clear to you that the way I've intended this to play is that you will write a letter to your chief of staff containing your intention for all the units under your command. Originally I was going to force you to write a seperate letter with formal orders for each of those units. If you so wish, you can still do this.
+
+It is oft said that the most important aspect of understanding any battle is examination and interpretation of the ground. Probably the greatest difference between this game as it will be played and previous iterations I have worked on is that the maps lack much detail of the terrain other than waterways. Even the defensive forces are expected (not required!) to spend at least some time scouting land before occupying it. The war has already been going for years and the campaign we are playing has already begun, but I anticipate this first exchange of letters to be used largely for planning and organizing initial attempts at intelligence gathering. You can of course issue whatever orders you like, and putting the enemy on the back foot with a very aggressive approach may pay off, but I just wanted to make my expectation clear in this regard.
+
+- Also! You are not fighting alone. You have an ally! Communication with said ally will need to go through me, so there will be considerable delay. Plan ahead so that you can consider that delay. Your opponent's forces are not divided in the same manner you are.
+- Also! You may be in sole control of your forces, but the enemy's land and naval commands are divided. Their communications will need to go through me, so there will be considerable delay which you may be able to exploit.
+
+Of course, no player is really in sole command of their forces, as I am keeping track of at least some of your subordinates, each unit commanding having a trait or temperment. Of course if this game was more realistic you would start with some knowledge of this, but I'm quite fond of the idea of you having to deduce the skills and personalities of these character from their actions and reports. Naturally you are in command and so may interact with them by issuing promotions, demotions, perhaps even arrests to those commanders that catch your attention.
+
+I keep having to revise this letter as I keep thinking of things I've neglected to mention. One such thing is that I won't think of everything. I will be modeling just about everything I can think of. You will think of different things. If you want to make sure I model some factor that you are taking into consideration but there's any chance I won't be thinking about it while umpiring, mention it and I'll probably think about it.
+
+I'd appreciate you letting me know when you recieve this, and if possible do please digitally copy anything you send me as I'd like to make sure everything is delivered and preserved even if a letter gets lost in the mail.
+
+As a final few notes, remember that Fortune favors the bold, God favors the best shots over the big battalions, and I of course favor the creative verging on the insane. As Sun Tzu said, "all warfare is based". Good luck, have fun, and give the bastards hell.
+
+Yours most, &c.
+Jonah Powell
+
+P.S. I've taken like two years to get this started. Take your time. I'm patient.

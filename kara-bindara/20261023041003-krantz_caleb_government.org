@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       d5250d85-d6da-4131-95a4-260e9ac62784
+:END:
+#+title: Krantz Caleb government
+
+General shift towards deregulation & privitization after a long strongly bureaucratic-led governance
+Malicat Arsenal of Arms & Cannon Foundry -> Houser Iron Steel & Tin Works
+Port of Vera Authority + South Thrakal Tobacco Authority + Hellan Sea White Fish Authority -> Port of Vera Tobacco & Import-Export Expertise Company
+Thrak City Public Motor Works bought by [[id:5f4e54f8-2e55-445f-b5f8-dd48d579bdff][TAHC]]
+Thrak City Municipal Water Works -> General Water
